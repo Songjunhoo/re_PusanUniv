@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361360481085",
+    "project_id": "endpusanuniv",
+    "storage_bucket": "endpusanuniv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361360481085:android:dd5dfa65014cfa092ec354",
+        "android_client_info": {
+          "package_name": "com.endpusan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361360481085-f50csuo18eb77i8uc7gr0ndbunmkvnn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxF4DZNuBdsLrzwTNAd6PhT3I8bhxd4rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361360481085-f50csuo18eb77i8uc7gr0ndbunmkvnn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
